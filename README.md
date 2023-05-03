@@ -1,2 +1,2 @@
 # web-proje
-bootstrap ile ilk site denemem
+Bootstrap ile ilk site denemem
